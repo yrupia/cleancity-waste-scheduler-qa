@@ -1,0 +1,16 @@
+Objectives:
+- Validate all user flows (Home, Dashboard, Feedback, Awareness, Admin)
+- Practice manual and automated QA techniques
+- Identify intentional bugs and report defects
+
+Strategy:
+- Functional Testing: Form validations, CRUD operations
+- UI Testing: Responsive design, accessibility
+- Boundary Testing: Long inputs, edge cases
+- Risk-based Testing: Security & validation checks
+
+Test Environment:
+- Browser: Chrome, Firefox, Safari, Edge
+- Device: Desktop, Tablet, Mobile
+- Node.js ≥ 14 (React version)
+- LocalStorage for data persistence
