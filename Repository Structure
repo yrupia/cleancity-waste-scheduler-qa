@@ -1,0 +1,17 @@
+cleancity-waste-scheduler/
+├─ index.html
+├─ styles.css
+├─ script.js
+├─ tests/
+│  ├─ test-plan.md
+│  ├─ test-cases-draft.md
+│  ├─ defect-log.md
+│  ├─ final-report.md       # Phase 3
+│  └─ README.md
+├─ docs/
+│  ├─ TEAM_ROLES.md
+│  ├─ SETUP_INSTRUCTIONS.md
+│  └─ REPORT_GUIDE.md       # Optional helper for PDF
+├─ setup.sh
+├─ PHASE1_SUBMISSION_CHECKLIST.md
+└─ .gitignore
