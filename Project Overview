@@ -1,0 +1,5 @@
+CleanCity: Waste Pickup Scheduler
+Purpose: QA learning project for testing manual and automated testing scenarios.
+Scope: Simulates a waste management system for African cities.
+Technology: HTML, CSS, JavaScript (React optional), localStorage, React Testing Library
+
