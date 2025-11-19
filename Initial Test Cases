@@ -1,0 +1,7 @@
+| Test ID | Test Scenario                       | Steps                           | Expected Result                       | Status |
+| ------- | ----------------------------------- | ------------------------------- | ------------------------------------- | ------ |
+| TC-001  | Submit Home Form without Name       | Leave Name empty → Submit       | Error message “Full Name is required” | Draft  |
+| TC-002  | Submit Home Form without Location   | Leave Location empty → Submit   | Error message “Location is required”  | Draft  |
+| TC-003  | Filter Dashboard by Location        | Select “Eldoret” → Apply Filter | Show only Eldoret requests            | Draft  |
+| TC-004  | Feedback Form invalid Request ID    | Enter “ABC123” → Submit         | Error “Invalid Request ID format”     | Draft  |
+| TC-005  | Accessibility Test (Awareness Page) | Check screen reader for images  | Images have descriptive alt text      | Draft  |
