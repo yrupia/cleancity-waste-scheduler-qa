@@ -1,0 +1,6 @@
+| Bug ID  | Description                           | Page      | Severity | Status |
+| ------- | ------------------------------------- | --------- | -------- | ------ |
+| BUG-001 | Home page date field not validated    | Home      | Medium   | Open   |
+| BUG-002 | Dashboard filter shows wrong location | Dashboard | High     | Open   |
+| BUG-003 | Awareness images missing alt-text     | Awareness | Medium   | Open   |
+| BUG-004 | Admin panel UI not refreshing status  | Admin     | High     | Open   |
