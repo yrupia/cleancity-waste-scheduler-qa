@@ -1,0 +1,44 @@
+1. Updated Test Plan
+- Expanded functional and non-functional tests
+- Added risk-based and boundary tests
+- Included automated test strategy with React Testing Library
+
+
+2. Draft Test Cases
+
+- tests/test-cases.md contains detailed test scenarios for:
+
+- Home Form validation
+
+- Dashboard filtering and sorting
+
+- Feedback form input validation
+
+- Awareness page accessibility
+
+- Admin panel status updates
+
+
+3. Early Automated Tests
+Example: tests/automation/sample-test.js
+- Test: Home Form submission validation
+- Test: Dashboard location filter
+- Run: npm test
+
+4. Defect Log Updates
+
+| Bug ID  | Description                           | Page      | Severity | Status |
+| ------- | ------------------------------------- | --------- | -------- | ------ |
+| BUG-001 | Home page date field not validated    | Home      | Medium   | Open   |
+| BUG-002 | Dashboard filter shows wrong location | Dashboard | High     | Open   |
+| BUG-005 | Feedback form accepts invalid ID      | Feedback  | Medium   | Open   |
+| BUG-006 | Mobile navigation menu overlapping    | All Pages | Low      | Open   |
+
+
+5. Phase 2 Submission Checklist
+- [ ] Updated test plan
+- [ ] Detailed test cases (tests/test-cases.md)
+- [ ] Early automated test scripts (tests/automation/)
+- [ ] Updated defect log (tests/defect-log.md)
+- [ ] Documented any challenges or changes
+- [ ] Commit and push snapshot to repo
