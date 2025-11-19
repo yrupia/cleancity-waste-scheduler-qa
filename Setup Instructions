@@ -1,0 +1,8 @@
+Option 1: HTML Version
+- Open index.html in any browser, no installation required.
+
+Option 2: React Version
+- Install Node.js ≥ 14
+- Run: npm install
+- Start server: npm start
+- Visit: http://localhost:3000
